@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,WACE,aACA,uBACA,mBACA,iB","sources":["webpack://react17-webpack5-configuration/./src/index.scss"],"sourcesContent":[".container{\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  flex-flow: column;\n}"],"names":[],"sourceRoot":""}
