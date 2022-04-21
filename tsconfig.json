@@ -1,0 +1,33 @@
+
+{
+  "compilerOptions": {
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "es6",
+    "jsx": "react",
+    "lib": [
+      "dom",
+      "es6",
+      "dom.iterable",
+      "scripthost"
+    ],
+    "types": [],
+
+    "alwaysStrict":false,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "noImplicitThis": false,
+    "noUnusedLocals": false,
+    
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+
+    "sourceMap": true,
+
+    "outDir": "dist"
+  },
+  "exclude": [
+    "dist"
+  ]
+}
